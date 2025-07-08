@@ -1,0 +1,7 @@
+*.log
+*.bak
+*.tmp
+*.jmt.bak
+*.class
+__pycache__/
+.DS_Store
