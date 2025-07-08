@@ -17,7 +17,7 @@ Il progetto analizza e modella le prestazioni di un DBMS basato su una traccia d
 ## Obiettivi
 
 1. Calcolo del tempo medio di risposta e numero medio di job nel sistema.
-2. Studio del massimo carico sostenibile mantenendo il collo di bottiglia ≤ 70%.
+2. Studio del massimo carico sostenibile per ogni classe di Workload mantenendo l'utilizzazione del collo di bottiglia ≤ 70%.
 3. Verifica della sostenibilità del carico con configurazione RAID-1.
 
 ## Tool utilizzati
@@ -27,7 +27,7 @@ Il progetto analizza e modella le prestazioni di un DBMS basato su una traccia d
 
 ## File
 - `Progetto3-TAGD-AS-MG.pdf`: Relazione completa
-- `transaction.csv`: Traccia del workload (non inclusa, se riservata)
+- `transaction.csv`: Traccia del workload 
 
 ## Licenza
 Questo progetto è distribuito con licenza MIT.
