@@ -3,8 +3,8 @@
 Progetto universitario per il corso di Tecnologie e Architetture per la Gestione dei Dati (A.A. 2024/2025) presso l'Università degli Studi Roma Tre.
 
 ## Autori
-- Alessandro Schmitt (577421)
-- Michele Guida (576985)
+- Alessandro Schmitt 
+- Michele Guida 
 
 ## Descrizione
 
@@ -27,7 +27,8 @@ Il progetto analizza e modella le prestazioni di un DBMS basato su una traccia d
 
 ## File
 - `Progetto3-TAGD-AS-MG.pdf`: Relazione completa
-- `transaction.csv`: Traccia del workload 
+- `transaction.csv`: Traccia del workload
+- `ProgettoTracciaOrale.pdf`: Traccia del progetto
 
 ## Licenza
 Questo progetto è distribuito con licenza MIT.
